@@ -112,6 +112,6 @@ If you're building something real in AI — let's talk.
 *"The AI industry doesn't need more people who understand LLMs.*
 *It needs people who can build with them — under pressure, in production, with real users depending on it."*
 
-**110 contributions last year. Counting up. 🟩**
+
 
 </div>
